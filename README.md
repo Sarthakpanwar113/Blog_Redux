@@ -10,3 +10,6 @@ Currently, two official plugins are available:
 
 
 - install different pakages in it like react-router-dom, hook-form and many other 
+
+- create environment variables like env file
+- CREATE ENV FILE AND APPRWITE IN REACT 
