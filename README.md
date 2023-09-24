@@ -13,3 +13,4 @@ Currently, two official plugins are available:
 
 - create environment variables like env file
 - CREATE ENV FILE AND APPRWITE IN REACT 
+- Build authentication service with appwrite
