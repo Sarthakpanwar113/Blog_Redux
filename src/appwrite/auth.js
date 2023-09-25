@@ -1,5 +1,5 @@
 //use this code for authentication purposes everywhere whenever u need to
-//write code in appwrite u can copy paste it
+//write code in appwrite u can copy paste it 
 
 import conf from '../conf/conf.js';
 import { Client, Account, ID } from "appwrite";
