@@ -15,3 +15,4 @@ Currently, two official plugins are available:
 - CREATE ENV FILE AND APPRWITE IN REACT 
 - Build authentication service with appwrite
 - Appwrite database, file upload and custom queries
+- redux toolkit and some other update
